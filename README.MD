@@ -3,6 +3,7 @@
 
 Learn all you while you still can
 
-```<?php 
+```
+<?php 
 echo "Hello World";
 ```
